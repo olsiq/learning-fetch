@@ -2,5 +2,5 @@ import React from "react";
 import "../styles/content.css";
 
 export const Content = () => {
-  return <div className="content">Cintent</div>;
+  return <div className="content">Content</div>;
 };
